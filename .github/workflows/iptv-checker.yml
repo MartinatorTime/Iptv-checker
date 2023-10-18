@@ -1,0 +1,54 @@
+name: IPTV Checker
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily, adjust as needed
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@master
+
+    - name: Setup Node.js
+      uses: actions/setup-node@master
+      with:
+        node-version: '16'
+
+    - name: Install FFmpeg
+      run: sudo apt-get install -y ffmpeg
+
+    - name: Install dependencies
+      run: npm install -g iptv-checker
+
+    - name: Download and merge M3U files
+      run: |
+        # Create an empty merged.m3u file
+        > merged.m3u
+
+        # Download and append M3U files to the merged.m3u file
+        curl -o LV.m3u https://iptv-org.github.io/iptv/languages/lav.m3u
+        curl -o rus.m3u https://iptv-org.github.io/iptv/languages/rus.m3u
+        curl -o russ.m3u http://m3u4u.com/m3u/jwmzn1k5zztjvje5n721.m3u
+
+        cat LV.m3u rus.m3u russ.m3u >> merged.m3u
+
+    - name: Run IPTV Checker
+      run: |
+        # Run IPTV Checker to parse working links
+        iptv-checker merged.m3u -o iptv -t 5000 -p 20 -a "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+
+    - name: Commit and push the updated M3U file
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "Your Name"
+        git add iptv
+        git commit -m "Update iptv lists"
+        git push

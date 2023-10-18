@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.lv" tvg-logo="https://i.imgur.com/F8P8GY3.png" group-title="Undefined",8TV (1080p)
+http://89.254.128.5:22280/8tv_hd/index.m3u8
+#EXTINF:-1 tvg-id="Kanal7.ee" tvg-logo="https://i.imgur.com/XRA4tVE.png" group-title="Undefined",Kanal 7
+http://89.254.128.5:22280/duo7_hd/index.m3u8
+#EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 24" tvg-logo="" group-title="(no group)",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luxury HD" tvg-logo="" group-title="(no group)",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Щелковское ТВ" tvg-logo="" group-title="(no group)",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Селенга ТВ" tvg-logo="" group-title="(no group)",Селенга ТВ
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НВК Саха HD" tvg-logo="" group-title="(no group)",НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ" tvg-logo="" group-title="(no group)",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Premium HD" tvg-logo="" group-title="(no group)",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТМ" tvg-logo="" group-title="(no group)",НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МузСоюз" tvg-logo="" group-title="(no group)",МузСоюз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUS TV HD" tvg-logo="" group-title="(no group)",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUSTV Страшное HD" tvg-logo="" group-title="(no group)",BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый музыкальный" tvg-logo="" group-title="(no group)",Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA Russia" tvg-logo="" group-title="(no group)",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
+https://saratov24.tv/online/playlist.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television (404p) [Not 24/7]" tvg-logo="" group-title="(no group)",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1mus ru" tvg-logo="" group-title="(no group)",1mus ru
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN Baltia (1080p)" tvg-logo="" group-title="(no group)",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8

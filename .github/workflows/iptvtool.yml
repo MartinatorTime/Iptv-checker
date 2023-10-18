@@ -1,0 +1,52 @@
+name: IPTV CHECK Slow
+
+on: 
+  workflow_dispatch:
+  #push:
+  #  branches:
+  #    - main  # Change this to match your main branch
+
+jobs:
+  iptv-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@master
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget ffmpeg tesseract-ocr libtesseract-dev tesseract-ocr-eng
+        working-directory: ${{ github.workspace }}
+
+      - name: Download and merge M3U files
+        run: |
+          # Download your M3U files and merge them into one file (e.g., online.m3u)
+          curl -o LV.m3u https://iptv-org.github.io/iptv/languages/lav.m3u
+          curl -o rus.m3u https://iptv-org.github.io/iptv/languages/rus.m3u
+          curl -o russ.m3u http://m3u4u.com/m3u/jwmzn1k5zztjvje5n721.m3u
+          curl -o any.m3u https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+          cat LV.m3u >> check.m3u
+          cat rus.m3u >> check.m3u
+          cat russ.m3u >> check.m3u
+          cat any.m3u >> check.m3u
+
+      - name: Run IPTV CHECK
+        run: |
+            chmod +x iptv-check
+            if ./iptv-check check.m3u; then
+            echo "IPTV check was successful."
+            else
+            echo "IPTV check was successful with exit code $?."
+            # Don't exit with an error code
+            fi
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit and push the updated M3U file
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+          git add working.m3u
+          git commit -m "Update iptv lists"
+          git push main:iptv/
