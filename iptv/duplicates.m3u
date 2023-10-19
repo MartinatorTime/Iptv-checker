@@ -30,8 +30,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый музыкальный" tvg-logo="" group-title="(no group)",Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA Russia" tvg-logo="" group-title="(no group)",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
 https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television (404p) [Not 24/7]" tvg-logo="" group-title="(no group)",1HD Music Television (404p) [Not 24/7]
