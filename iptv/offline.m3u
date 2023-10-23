@@ -3,71 +3,67 @@
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General",5 канал (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:-1 tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment",.red Russia (480p) [Geo-blocked] (HTTP 403 Forbidden)
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 tvg-id="black.ru" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Entertainment",.black Russia (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment",.red Russia (480p) [Geo-blocked] (HTTP 403 Forbidden)
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 tvg-id="Channel8Belarus.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/8channeltv.png" group-title="Undefined",8 канал (Витебск) (576p) [Not 24/7] (HTTP 408 Request Timeout)
 http://95.46.208.8:24433/art
 #EXTINF:-1 tvg-id="9Volna.ru" tvg-logo="https://i.imgur.com/zmnSoBA.png" group-title="Entertainment",9 Волна (576p) [Geo-blocked] (HTTP 408 Request Timeout)
 http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p) (FFMPEG Undefined Error)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Undefined",12 канал (1080p) (HTTP 408 Request Timeout)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p) (FFMPEG Undefined Error)
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
-https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p) (FFMPEG Undefined Error)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="TVJurmala.lv" tvg-logo="https://i.imgur.com/tQHkHD0.png" group-title="General",TV Jūrmala (1080p) (FFMPEG Undefined Error)
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (720p) [Not 24/7] (FFMPEG Undefined Error)
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Undefined",12 канал (1080p) (FFMPEG Undefined Error)
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="7D7.ee" tvg-logo="https://i.imgur.com/WrQI2EN.png" group-title="Undefined",7D7 (1080p) (FFMPEG Undefined Error)
+https://d7tv.pp.ua/hls/d7tv.m3u8
+#EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Science",.sci-fi Russia (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Movies;Series",Amedia Hit (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="News",Belarus 24 (720p) (HTTP 403 Forbidden)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p) [Not 24/7] (HTTP 403 Forbidden)
-https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies",Cinema (576p) [Not 24/7] (HTTP 403 Forbidden)
 https://sc.id-tv.kz/Cinema.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p) [Not 24/7] (HTTP 403 Forbidden)
+https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="Business",Atameken Business (1080p) [Not 24/7] (HTTP 408 Request Timeout)
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="Undefined",Bălţi TV (1080p) [Geo-blocked] (HTTP 408 Request Timeout)
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="Undefined",Channel 9 (540p) [Not 24/7] (HTTP 408 Request Timeout)
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A2 (480p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s33/index.m3u8
 #EXTINF:-1 tvg-id="A1.ru" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A1 (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s45/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Movies;Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium (480p) (FFMPEG Undefined Error)
+#EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",A2 (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s64/index.m3u8
+http://ott-cdn.ucom.am/s33/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (FFMPEG Undefined Error)
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Russian (720p) (FFMPEG Undefined Error)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Bridge TV (480p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:-1 tvg-id="FoxLifeRussia.ru" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life Russia (1080p) [Geo-blocked] (HTTP 403 Forbidden)
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:-1 tvg-id="FoxRussia.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Movies",Fox Russia (576p) [Not 24/7] (HTTP 403 Forbidden)
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Music",Europa Plus TV (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 http://strm.yandex.ru/kal/europaplus/europaplus0.m3u8
 #EXTINF:-1 tvg-id="FreshTV.ru" tvg-logo="https://i.imgur.com/PDNUztS.png" group-title="Music",FreshTV (720p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
-#EXTINF:-1 tvg-id="HDMedia.ru" tvg-logo="https://i.imgur.com/vEjTNlf.png" group-title="Entertainment",HD Медиа (720p) [Geo-blocked] (HTTP 403 Forbidden)
-https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
 #EXTINF:-1 tvg-id="HITV.ru" tvg-logo="https://i.imgur.com/Mr9AJxK.png" group-title="Music",HITV (1080p) (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/hittv/hittv0.m3u8
-#EXTINF:-1 tvg-id="FoxLifeRussia.ru" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life Russia (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 tvg-id="HDMedia.ru" tvg-logo="https://i.imgur.com/vEjTNlf.png" group-title="Entertainment",HD Медиа (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
 #EXTINF:-1 tvg-id="FAN.ru" tvg-logo="https://i.imgur.com/mDeTbaF.png" group-title="Animation;Movies",FAN (576p) [Not 24/7] (HTTP 408 Request Timeout)
 http://194.9.27.164:8103/play/FAN/index.m3u8
 #EXTINF:-1 tvg-id="GlobalStarTV.ru" tvg-logo="https://i.imgur.com/qu7t9d4.png" group-title="Undefined",Global Star TV (720p) (HTTP 408 Request Timeout)
@@ -79,28 +75,35 @@ http://212.42.111.136/hls/manas.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Euronews по-русски (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",English Club TV (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Undefined",ETV+ (720p) (FFMPEG Undefined Error)
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="General",Jibek Joly (1080p) (FFMPEG Undefined Error)
-https://ikomg3.s.llnwi.net/test123/master.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Undefined",Life TV (432p) [Not 24/7] (FFMPEG Undefined Error)
 https://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="General",Lugansk 24 (1084p) (FFMPEG Undefined Error)
-https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 tvg-id="LoloTV.lv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/LoloTV_logo_2019.png" group-title="Animation;Kids",Lolo TV (576p) (FFMPEG Undefined Error)
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="General",Jibek Joly (1080p) (FFMPEG Undefined Error)
+https://ikomg3.s.llnwi.net/test123/master.m3u8
+#EXTINF:-1 tvg-id="Mangystay.kz" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="General",Mańǵystaý (540p) [Not 24/7] (HTTP 404 Not Found)
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild Russia (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 tvg-id="Mangystay.kz" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="General",Mańǵystaý (540p) [Not 24/7] (HTTP 404 Not Found)
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1 tvg-id="MosObrTV.ru" tvg-logo="https://i.imgur.com/t6PmOD5.png" group-title="Education",MOSOBR.TV (720p) [Not 24/7] (HTTP 408 Request Timeout)
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-id="MTVmix.ru" tvg-logo="https://i.imgur.com/ewdf2F4.png" group-title="Music",MTVmix (Уфа) (384p) (HTTP 408 Request Timeout)
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 tvg-id="ParamountComedyRussia.ru" tvg-logo="https://i.imgur.com/Nki62R7.png" group-title="Comedy",Paramount Comedy Russia (HTTP 408 Request Timeout)
 http://45.145.32.11:20007/paramount_comedy/video.m3u8
-#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Shop",Shopping Live (576p) [Not 24/7] (HTTP 408 Request Timeout)
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG HD (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s63/index.m3u8
 #EXTINF:-1 tvg-id="ShotTV.ru" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="Movies",Shot TV [Not 24/7] (HTTP 408 Request Timeout)
 http://cdn.tvmatic.net/shot.m3u8
 #EXTINF:-1 tvg-id="Sluhayby.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="Music",Sluhay.by (720p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -111,16 +114,12 @@ https://sluhay.by/live/Ch149pub/index.m3u8
 https://sluhay.by/live/Ch086pub/index.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-logo="https://i.ibb.co/LgS5pZF/Captura.png" group-title="Music",MuzzOne (1080p) (FFMPEG Undefined Error)
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG (480p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s80/index.m3u8
-#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG HD (480p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s63/index.m3u8
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU.TV (1080p) [Geo-blocked] (FFMPEG Undefined Error)
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (FFMPEG Undefined Error)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="MusicBoxRussia.ru" tvg-logo="https://i.imgur.com/iWJdeD1.png" group-title="Music",Music Box Russia (1080p) (FFMPEG Undefined Error)
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU.TV (1080p) [Geo-blocked] (FFMPEG Undefined Error)
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 tvg-id="SluhaybyChrist.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="Music",Sluhay.by Christ (720p) [Not 24/7] (HTTP 408 Request Timeout)
 https://sluhay.by/live/Ch064pub/index.m3u8
 #EXTINF:-1 tvg-id="SluhaybyEDM.by" tvg-logo="https://sluhay.by/assets/logo_edm.png" group-title="Music",Sluhay.by EDM (720p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -143,10 +142,15 @@ https://sluhay.by/live/Ch056pub/index.m3u8
 http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMChannel.ru" tvg-logo="https://i.imgur.com/ZX6crqH.png" group-title="Undefined",TVMChannel (576p) [Geo-blocked] (HTTP 408 Request Timeout)
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="Documentary" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Арсенал (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Religious",TBN Baltia (1080p) (FFMPEG Undefined Error)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="SONGTV.am" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV (720p) (FFMPEG Undefined Error)
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Music",VIVA Russia (1080p) (FFMPEG Undefined Error)
-http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru" tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="Undefined",Арис 24 (720p) [Not 24/7] (FFMPEG Undefined Error)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Undefined",Univer TV (1080p) [Not 24/7] (FFMPEG Undefined Error)
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="Undefined",Астрахань 24 (720p) [Not 24/7] (HTTP 403 Forbidden)
@@ -175,91 +179,100 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="General",Беларусь 1 (1080p) (FFMPEG Undefined Error)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus3.by" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="General",Беларусь 3 (1080p) [Not 24/7] (FFMPEG Undefined Error)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by" tvg-logo="https://i.imgur.com/BpEHpPS.png" group-title="General",Беларусь 2 (1080p) (FFMPEG Undefined Error)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus3.by" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="General",Беларусь 3 (1080p) [Not 24/7] (FFMPEG Undefined Error)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="Undefined",БелРос (576p) (FFMPEG Undefined Error)
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Undefined",БСТ (Башкирское спутниковое телевидение) (576p) (FFMPEG Undefined Error)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Undefined",Ветта 24 (Пермь) (576p) [Not 24/7] (FFMPEG Undefined Error)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="ZharaTV.ru" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="Music",Жара (576p) [Not 24/7] (HTTP 404 Not Found)
 http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Volgograd1.ru" tvg-logo="https://i.imgur.com/1xlaImE.png" group-title="Undefined",Волгоград 1 (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
+#EXTINF:-1 tvg-id="DikayaOkhotaHD.ru" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Outdoor",Дикая охота (1080p) [Geo-blocked] (HTTP 403 Forbidden)
+https://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
+#EXTINF:-1 tvg-id="DikayaRybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Outdoor",Дикая рыбалка (1080p) [Geo-blocked] (HTTP 403 Forbidden)
+https://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
 #EXTINF:-1 tvg-id="Guberniya33.ru" tvg-logo="https://i.imgur.com/iPmWphQ.png" group-title="General",Губерния 33 (Владимир) (360p) (HTTP 503 Service Unavailable)
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DivingTV.ru" tvg-logo="https://i.imgur.com/gCBkbZE.png" group-title="Outdoor",Дайвинг.TV (720p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/diving/diving0.m3u8
-#EXTINF:-1 tvg-id="DikayaRybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Outdoor",Дикая рыбалка (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-https://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
-#EXTINF:-1 tvg-id="DikayaOkhotaHD.ru" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Outdoor",Дикая охота (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-https://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Outdoor",Дикий (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
-#EXTINF:-1 tvg-id="ZharPtitsa.ru" tvg-logo="https://i.imgur.com/19R470V.png" group-title="Music",Жар Птица (404p) [Geo-blocked] (HTTP 403 Forbidden)
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Education;Lifestyle",Доктор (720p) [Not 24/7] (HTTP 408 Request Timeout)
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
 #EXTINF:-1 tvg-id="DomKino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом кино (576p) (HTTP 408 Request Timeout)
 http://50.7.92.90/Dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Evronovosti.ru" tvg-logo="https://i.imgur.com/9eIZJSQ.png" group-title="News",Евроновости (576p) (HTTP 408 Request Timeout)
 http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Загородный (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1 tvg-id="Volgograd24.ru" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Undefined",Волгоград 24 (FFMPEG Undefined Error)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Undefined",Дагестан (1080p) (FFMPEG Undefined Error)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Дорама (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Звезда (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelRussia.ru" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="Kids",Канал Disney (576p) [Not 24/7] (HTTP 403 Forbidden)
+http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="News",Известия (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 #EXTINF:-1 tvg-id="KaleidoscopeTV.ru" tvg-logo="https://i.imgur.com/Ub3gojM.png" group-title="Undefined",Калейдскоп (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelRussia.ru" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="Kids",Канал Disney (576p) [Not 24/7] (HTTP 403 Forbidden)
-http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="General",Кавказ 24 (720p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/kavkaz24_supres/kavkaz24_supres0.m3u8
-#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Comedy",Кинокомедия (360p) [Not 24/7] (HTTP 403 Forbidden)
-https://sc.id-tv.kz/Kinokomediya_hd.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies",Кинопремьера (1080p) [Not 24/7] (HTTP 403 Forbidden)
-https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="Undefined",Крик-ТВ (576p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/krik_tv/krik_tv0.m3u8
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Movies",Киносвидание (1080p) [Not 24/7] (HTTP 403 Forbidden)
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies",Кинопремьера (1080p) [Not 24/7] (HTTP 403 Forbidden)
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Comedy",Кинокомедия (360p) [Not 24/7] (HTTP 403 Forbidden)
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Movies",Киносемья (1080p) [Not 24/7] (HTTP 403 Forbidden)
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Movies",Киносвидание (1080p) [Not 24/7] (HTTP 403 Forbidden)
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Movies",Кинохит (404p) [Not 24/7] (HTTP 403 Forbidden)
 https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",История (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s40/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Comedy",Комедийное (540p) (HTTP 408 Request Timeout)
 http://185.97.150.19:8082/2402
 #EXTINF:-1 tvg-id="Kuzbass1.ru" tvg-logo="https://i.imgur.com/jNguEHv.png" group-title="General",Кузбасс 1 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",История (480p) (FFMPEG Undefined Error)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s40/index.m3u8
 #EXTINF:-1 tvg-id="ZooTV.ru" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Зоо ТВ (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s92/index.m3u8
-#EXTINF:-1 tvg-id="KurajTV.ru" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="Undefined",Курай (576p) (FFMPEG Undefined Error)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Мир 24 (1080p) [Not 24/7] (HTTP 403 Forbidden)
 http://188.40.68.167/russia/mir24/playlist.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Мир Сериала (576p) [Not 24/7] (HTTP 404 Not Found)
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Mezhdunet.ru" tvg-logo="https://i.imgur.com/lFwhJJU.png" group-title="Undefined",Между.Net (Междуреченск) (720p) [Not 24/7] (HTTP 404 Not Found)
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 tvg-id="Lipeckoevremya.ru" tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="General",Липецкое время (576p) [Not 24/7] (HTTP 403 Forbidden)
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezhdunet.ru" tvg-logo="https://i.imgur.com/lFwhJJU.png" group-title="Undefined",Между.Net (Междуреченск) (720p) [Not 24/7] (HTTP 404 Not Found)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 tvg-id="LyubimoeTV.ru" tvg-logo="https://i.imgur.com/JJv81ZP.png" group-title="Kids",Любимое.ТВ (720p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
-#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-logo="https://i.imgur.com/3P0uvHD.png" group-title="Undefined",Министерство идей (720p) (HTTP 503 Service Unavailable)
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MirPlus3.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Мir +3 (512p) [Not 24/7] (HTTP 403 Forbidden)
 https://sc.id-tv.kz/Mir.m3u8
 #EXTINF:-1 tvg-id="MirPlus2.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Мир +2 (540p) [Not 24/7] (HTTP 403 Forbidden)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="MirPlus7.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Мир +7 (540p) (HTTP 403 Forbidden)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-logo="https://i.imgur.com/3P0uvHD.png" group-title="Undefined",Министерство идей (720p) (HTTP 503 Service Unavailable)
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MirPlus4.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Мир +4 (540p) [Not 24/7] (HTTP 403 Forbidden)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="Undefined",Мир Белогорья (720p) [Geo-blocked] (HTTP 503 Service Unavailable)
@@ -286,24 +299,27 @@ http://95.46.208.8:26259/nashe
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ (576p) (HTTP 408 Request Timeout)
 http://31.128.159.41:8080/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",НТВ Стиль (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Муз-ТВ (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s28/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Наука (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Religious",Небеса ТВ7 (720p) (FFMPEG Undefined Error)
-https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.kg" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Music",Музыка (272p) (FFMPEG Undefined Error)
-https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimaniaRussia.ru" tvg-logo="https://i.imgur.com/abh8ZBA.png" group-title="Animation;Kids",Мультимания (576p) (FFMPEG Undefined Error)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="Travel",Наша Сибирь / Кемерово (1080p) [Not 24/7] (FFMPEG Undefined Error)
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 tvg-id="PervyyPskovskiy.ru" tvg-logo="https://i.imgur.com/1gciFqi.png" group-title="Undefined",Первый Псковский (540p) [Not 24/7] (HTTP 503 Service Unavailable)
+#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Religious",Небеса ТВ7 (720p) (FFMPEG Undefined Error)
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PervyyPskovskiy.ru" tvg-logo="https://i.imgur.com/1gciFqi.png" group-title="Undefined",Первый Псковский (540p) [Not 24/7] (HTTP 403 Forbidden)
 http://194.190.78.91/pskov/rewind-10800.m3u8
-#EXTINF:-1 tvg-id="OTS.ru" tvg-logo="https://i.imgur.com/T7YPwMe.png" group-title="General",ОТС (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-https://strm.yandex.ru/kal/otstv/otstv0.m3u8
 #EXTINF:-1 tvg-id="OhotnikirybolovInt.ru" tvg-logo="https://i.imgur.com/XJ3laN8.png" group-title="Outdoor",Охотник и рыболов International (1080p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
+#EXTINF:-1 tvg-id="OTS.ru" tvg-logo="https://i.imgur.com/T7YPwMe.png" group-title="General",ОТС (1080p) [Geo-blocked] (HTTP 403 Forbidden)
+https://strm.yandex.ru/kal/otstv/otstv0.m3u8
 #EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="General",Первый канал Евразия (396p) (HTTP 403 Forbidden)
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
 #EXTINF:-1 tvg-id="Pobeda.ru" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="Undefined",Победа (576p) [Not 24/7] (HTTP 403 Forbidden)
@@ -314,17 +330,21 @@ https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0.m3u8
 https://sc.id-tv.kz/poehali.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-logo="https://i.imgur.com/NwQ7GBy.png" group-title="Undefined",Остросюжетное (540p) (HTTP 408 Request Timeout)
 http://185.97.150.19:8082/2235
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Первый канал (480p) (HTTP 408 Request Timeout)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-id="PerviyKrymskiy.ru" tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="Undefined",Первый крымский (540p) [Not 24/7] (HTTP 408 Request Timeout)
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="ONT.by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="General",ОНТ (576p) [Not 24/7] (FFMPEG Undefined Error)
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Music",Первый Музыкальный Канал Россия (576p) (FFMPEG Undefined Error)
-http://rtmp.one.by:2200
-#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International (480p) (FFMPEG Undefined Error)
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Пятница! International (480p) (HTTP 408 Request Timeout)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Охотник и Рыболов (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s62/index.m3u8
 #EXTINF:-1 tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="Undefined",ОТР (720p) (FFMPEG Undefined Error)
 https://strm.yandex.ru/kal/otr/otr0.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Music",Первый Музыкальный Канал Россия (576p) (FFMPEG Undefined Error)
+http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="Radio1018.ru" tvg-logo="https://i.imgur.com/kHyujEG.png" group-title="Undefined",Радио 101.8 (540p) (HTTP 404 Not Found)
 https://video.penzainform.ru/e/r1018.m3u8
 #EXTINF:-1 tvg-id="Region29.ru" tvg-logo="https://i.imgur.com/pULU44E.png" group-title="Undefined",Регион 29 (Архангельск) (720p) [Geo-blocked] (HTTP 403 Forbidden)
@@ -333,10 +353,10 @@ http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RZDTV.ru" tvg-logo="https://i.imgur.com/lf1r9L6.png" group-title="Undefined",РЖД ТВ (360p) [Geo-blocked] (HTTP 403 Forbidden)
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Movies",Родное кино (576p) [Not 24/7] (HTTP 403 Forbidden)
-https://sc.id-tv.kz/Rodnoe_kino.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1 HD (720p) [Not 24/7] (HTTP 404 Not Found)
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Movies",Родное кино (576p) [Not 24/7] (HTTP 403 Forbidden)
+https://sc.id-tv.kz/Rodnoe_kino.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Music",Радио Шансон (720p) [Not 24/7] (HTTP 408 Request Timeout)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="RamenskoeTV.ru" tvg-logo="https://i.imgur.com/lAOvxxI.png" group-title="Undefined",Раменское ТВ (720p) (HTTP 408 Request Timeout)
@@ -345,8 +365,6 @@ https://rtv.facecast.io/rtv/0.m3u8
 https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8
 #EXTINF:-1 tvg-id="Russia24Chita.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="News",Россия 24 (Чита) (360p) (HTTP 408 Request Timeout)
 https://gtrkchita.ru:8081/hls/r24-chita_360p.m3u8
-#EXTINF:-1 tvg-id="PilotFM.ru" tvg-logo="https://i.imgur.com/SdudhuW.png" group-title="Undefined",Радио Пилот (720p) [Not 24/7] (FFMPEG Undefined Error)
-https://pilotfm.ru/cam/hls/pilothd.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="General",РЕН ТВ (576p) (FFMPEG Undefined Error)
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Рада ТВ (1080p) [Not 24/7] (FFMPEG Undefined Error)
@@ -361,46 +379,44 @@ https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
 http://78.58.133.179:28000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/NBAFDgs.png" group-title="Sports",Русский Экстрим (HTTP 408 Request Timeout)
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
-#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/Y5G3ET6.png" group-title="Undefined",Саратов 24 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" group-title="Kids",Смайлик ТВ (720p) [Not 24/7] (HTTP 408 Request Timeout)
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybolov.ru" tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="Outdoor" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Рыболов (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s55/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Рыжий (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="Undefined",Салям (576p) (FFMPEG Undefined Error)
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="S1.ru" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Undefined",С1 (Сургут) (1080p) [Not 24/7] (FFMPEG Undefined Error)
+https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Undefined",Север (Нарьян-Мар) (1080p) (FFMPEG Undefined Error)
 https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="RusskiySever.ru" tvg-logo="https://i.imgur.com/BxAyQTx.png" group-title="Undefined",Русский Север (Вологда) (1080p) (FFMPEG Undefined Error)
-http://185.186.142.16/streams.rs.m3u8
 #EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" group-title="Sports",Старт (1080p) (FFMPEG Undefined Error)
 https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-id="Surgut24.ru" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Undefined",Сургут 24 (720p) [Not 24/7] (HTTP 403 Forbidden)
-https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-id="RusskiySever.ru" tvg-logo="https://i.imgur.com/BxAyQTx.png" group-title="Undefined",Русский Север (Вологда) (1080p) (FFMPEG Undefined Error)
+http://185.186.142.16/streams.rs.m3u8
 #EXTINF:-1 tvg-id="TVExtra.ru" tvg-logo="https://i.imgur.com/34eyR0f.png" group-title="Undefined",ТВ Экстра (720p) (HTTP 404 Not Found)
 https://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 tvg-id="Surgut24.ru" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Undefined",Сургут 24 (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 tvg-id="TVTURTV.ru" tvg-logo="https://i.imgur.com/ut3rvDk.png" group-title="Travel",ТВТУР (720p) [Geo-blocked] (HTTP 403 Forbidden)
 https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
-#EXTINF:-1 tvg-id="Tatarstan24.ru" tvg-logo="https://i.imgur.com/gGnUXzr.png" group-title="Undefined",Татарстан24 (1080p) [Not 24/7] (HTTP 404 Not Found)
-http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",ТНТ4 (576p) [Not 24/7] (HTTP 403 Forbidden)
 https://sc.id-tv.kz/tnt4.m3u8
-#EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Суббота! (450p) [Geo-blocked] (HTTP 408 Request Timeout)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="Tatarstan24.ru" tvg-logo="https://i.imgur.com/gGnUXzr.png" group-title="Undefined",Татарстан24 (1080p) [Not 24/7] (HTTP 404 Not Found)
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="Entertainment",ТВ-3 (1080p) (HTTP 408 Request Timeout)
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТНТ (540p) [Geo-blocked] (HTTP 408 Request Timeout)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",ТНТ Music (1080p) (HTTP 408 Request Timeout)
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",Три Ангела (720p) (HTTP 408 Request Timeout)
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Телепутешествия (480p) (FFMPEG Undefined Error)
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Телепутешествия (480p) (HTTP 408 Request Timeout)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",ТНТ Music (1080p) (HTTP 408 Request Timeout)
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",ТВ Центр (480p) (FFMPEG Undefined Error)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s54/index.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="Undefined",ТВЦ (Международный) (576p) (FFMPEG Undefined Error)
 https://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.ru" tvg-logo="https://i.imgur.com/rW1BeJC.png" group-title="Undefined",ТВК 24 (576p) (FFMPEG Undefined Error)
@@ -408,34 +424,46 @@ https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-logo="https://i.imgur.com/O15eGBK.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Тонус (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",Три Ангела (720p) (FFMPEG Undefined Error)
+https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Movies",Феникс Кино (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Entertainment",Че (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="Music",Шансон ТВ (512p) [Geo-blocked] (HTTP 403 Forbidden)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Entertainment",Ю (480p) [Geo-blocked] (HTTP 403 Forbidden)
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
-#EXTINF:-1 tvg-id="YuTV.ru" tvg-logo="https://i.imgur.com/b8CXEr7.png" group-title="Undefined",ЮТВ (Чебоксары) (432p) [Not 24/7] (HTTP 403 Forbidden)
-http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Yurgan.ru" tvg-logo="https://i.imgur.com/RCokCLy.png" group-title="Undefined",Югра (576p) (HTTP 503 Service Unavailable)
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="YuTV.ru" tvg-logo="https://i.imgur.com/b8CXEr7.png" group-title="Undefined",ЮТВ (Чебоксары) (432p) [Not 24/7] (HTTP 403 Forbidden)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Yamal.ru" tvg-logo="https://i.imgur.com/O9PJHUy.png" group-title="Undefined",ЯМАЛ 1 (HTTP 403 Forbidden)
 https://bl.rutube.ru/livestream/eff3ed0c2cdde88e8c5fdc515aee2c9f/index.m3u8?e=1653312522&s=rAfTRV43vtwOtE12zJ8UQQ&scheme=https
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСН" tvg-logo="" group-title="(no group)",ОСН (HTTP 408 Request Timeout)
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Настоящее время" tvg-logo="" group-title="(no group)",Настоящее время (HTTP 408 Request Timeout)
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эхо ТВ 24" tvg-logo="" group-title="(no group)",Эхо ТВ 24 (HTTP 408 Request Timeout)
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Pro" tvg-logo="" group-title="(no group)",TV Pro (HTTP 408 Request Timeout)
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Sports" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Футбол (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.ru" tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Центральное телевидение (ЦТВ) (480p) (FFMPEG Undefined Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:-1 tvg-id="UTRK.kg" tvg-logo="https://i.ibb.co/jwPmJWK/logo-2.png" group-title="General",УТРК Кыргызстан (272p) (FFMPEG Undefined Error)
-https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Байкал Универ ТВ" tvg-logo="" group-title="(no group)",Байкал Универ ТВ (FFMPEG Undefined Error)
 https://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Настоящее время" tvg-logo="" group-title="(no group)",Настоящее время (FFMPEG Undefined Error)
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КТК" tvg-logo="" group-title="(no group)",КТК (FFMPEG Undefined Error)
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Салям" tvg-logo="" group-title="(no group)",Салям (FFMPEG Undefined Error)
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТРК 555 HD" tvg-logo="" group-title="(no group)",ТРК 555 HD (FFMPEG Undefined Error)
 http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РБК" tvg-logo="" group-title="(no group)",РБК (FFMPEG Undefined Error)
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал (+4)" tvg-logo="" group-title="(no group)",Первый канал (+4) (HTTP 400 Bad Request)
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brodilo TV" tvg-logo="" group-title="(no group)",Brodilo TV (FFMPEG Invalid Data)
@@ -446,28 +474,26 @@ https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 http://flussonic0.podryad.net/gorodtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал HD" tvg-logo="" group-title="(no group)",Первый канал HD (FFMPEG Undefined Error)
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новороссия тв HD" tvg-logo="" group-title="(no group)",Новороссия тв HD (HTTP 500 Internal Server Error)
-http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оплот" tvg-logo="" group-title="(no group)",Оплот (HTTP 500 Internal Server Error)
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="С1 Сургут HD" tvg-logo="" group-title="(no group)",С1 Сургут HD (FFMPEG Undefined Error)
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Юнион ТВ" tvg-logo="" group-title="(no group)",Юнион ТВ (HTTP 500 Internal Server Error)
-http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новороссия тв HD" tvg-logo="" group-title="(no group)",Новороссия тв HD (HTTP 500 Internal Server Error)
+http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Между.Net HD" tvg-logo="" group-title="(no group)",Между.Net HD (HTTP 404 Not Found)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Юнион ТВ" tvg-logo="" group-title="(no group)",Юнион ТВ (HTTP 500 Internal Server Error)
+http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Нано ТВ" tvg-logo="" group-title="(no group)",Нано ТВ (HTTP 408 Request Timeout)
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Таврия ТВ" tvg-logo="" group-title="(no group)",Таврия ТВ (FFMPEG Undefined Error)
 https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Точка ТВ" tvg-logo="" group-title="(no group)",Точка ТВ (HTTP 503 Service Unavailable)
-http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Липецкое время" tvg-logo="" group-title="(no group)",Липецкое время (HTTP 403 Forbidden)
-http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Министерство идей" tvg-logo="" group-title="(no group)",Министерство идей (HTTP 503 Service Unavailable)
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сургут 24" tvg-logo="" group-title="(no group)",Сургут 24 (HTTP 403 Forbidden)
 https://video1.in-news.ru/c24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Липецкое время" tvg-logo="" group-title="(no group)",Липецкое время (HTTP 403 Forbidden)
+http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Точка ТВ" tvg-logo="" group-title="(no group)",Точка ТВ (HTTP 503 Service Unavailable)
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Министерство идей" tvg-logo="" group-title="(no group)",Министерство идей (HTTP 503 Service Unavailable)
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЖД ТВ" tvg-logo="" group-title="(no group)",РЖД ТВ (HTTP 403 Forbidden)
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тюменское Время" tvg-logo="" group-title="(no group)",Тюменское Время (FFMPEG Undefined Error)
@@ -874,20 +900,20 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFV Family" tvg-logo="" group-title="(no group)",AFV Family (HTTP 404 Not Found)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="(no group)",НТВ HD (HTTP 403 Forbidden)
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал HD" tvg-logo="" group-title="(no group)",Первый канал HD (HTTP 403 Forbidden)
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +4" tvg-logo="" group-title="(no group)",НТВ +4 (HTTP 403 Forbidden)
-http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +2" tvg-logo="" group-title="(no group)",НТВ +2 (HTTP 403 Forbidden)
 http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="(no group)",НТВ HD (HTTP 403 Forbidden)
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +7" tvg-logo="" group-title="(no group)",НТВ +7 (HTTP 403 Forbidden)
 http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Хит" tvg-logo="" group-title="(no group)",НТВ Хит (HTTP 403 Forbidden)
-http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +4" tvg-logo="" group-title="(no group)",НТВ +4 (HTTP 403 Forbidden)
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Сериал" tvg-logo="" group-title="(no group)",НТВ Сериал (HTTP 403 Forbidden)
 http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Хит" tvg-logo="" group-title="(no group)",НТВ Хит (HTTP 403 Forbidden)
+http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIVATE TV HD" tvg-logo="" group-title="(no group)",PRIVATE TV HD (HTTP 408 Request Timeout)
 http://188.233.146.149:81/udp/225.0.55.230:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRENCHLOVER" tvg-logo="" group-title="(no group)",FRENCHLOVER (HTTP 408 Request Timeout)
@@ -896,18 +922,18 @@ http://188.233.146.149:81/udp/225.0.55.232:1234
 http://188.233.146.149:81/udp/225.0.55.239:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hustler HD" tvg-logo="" group-title="(no group)",Hustler HD (HTTP 408 Request Timeout)
 http://188.233.146.149:81/udp/225.0.56.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Право" tvg-logo="" group-title="(no group)",НТВ Право (HTTP 403 Forbidden)
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Стиль" tvg-logo="" group-title="(no group)",НТВ Стиль (HTTP 403 Forbidden)
 http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Право" tvg-logo="" group-title="(no group)",НТВ Право (HTTP 403 Forbidden)
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тайна" tvg-logo="" group-title="(no group)",Тайна (HTTP 503 Service Unavailable)
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screen Dreams" tvg-logo="" group-title="(no group)",Screen Dreams (HTTP 404 Not Found)
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nature Live - Waterfalls Live" tvg-logo="" group-title="(no group)",Nature Live - Waterfalls Live (HTTP 504 Gateway Timeout)
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Naturescape" tvg-logo="" group-title="(no group)",Stingray Naturescape (HTTP 400 Bad Request)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screen Dreams" tvg-logo="" group-title="(no group)",Screen Dreams (HTTP 404 Not Found)
-https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Королёв ТВ HD" tvg-logo="" group-title="(no group)",Королёв ТВ HD (FFMPEG Invalid Data)
 http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Репортер 73" tvg-logo="" group-title="(no group)",Репортер 73 (HTTP 451 Unavailable For Legal Reasons)
@@ -922,18 +948,16 @@ https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w2023413974_b3268608.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMC MUSIC TV" tvg-logo="" group-title="(no group)",DMC MUSIC TV (FFMPEG Invalid Data)
 https://m3url.ru/dmc-music.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop HD" tvg-logo="" group-title="(no group)",MTV Biggest Pop HD (HTTP Connection Reset)
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Yo!" tvg-logo="" group-title="(no group)",MTV Yo! (HTTP Connection Reset)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Block Party HD" tvg-logo="" group-title="(no group)",MTV Block Party HD (HTTP Connection Reset)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Spanking New HD" tvg-logo="" group-title="(no group)",MTV Spanking New HD (HTTP Connection Reset)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop HD" tvg-logo="" group-title="(no group)",MTV Biggest Pop HD (HTTP Connection Reset)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss Tv HD" tvg-logo="" group-title="(no group)",Kiss Kiss Tv HD (HTTP 408 Request Timeout)
 http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="" group-title="(no group)",9XM (FFMPEG Undefined Error)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANNALI TV HD" tvg-logo="" group-title="(no group)",CANNALI TV HD (HTTP 404 Not Found)
 http://live.streams.ovh:1935/cannali/cannali/chunklist_w360857474.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MESSATIDA TV" tvg-logo="" group-title="(no group)",MESSATIDA TV (HTTP 404 Not Found)
@@ -942,10 +966,6 @@ https://vod.streams.ovh:3037/stream/play.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VESELJAK TV" tvg-logo="" group-title="(no group)",VESELJAK TV (HTTP 408 Request Timeout)
 https://stream.veseljak.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Music" tvg-logo="" group-title="(no group)",Persiana Music (HTTP 404 Not Found)
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 KURD" tvg-logo="" group-title="(no group)",4 KURD (HTTP 404 Not Found)
-http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Otto FM TV" tvg-logo="" group-title="(no group)",Otto FM TV (FFMPEG Streams Not Found)
 http://streaming.bitonlive.net:8080/hls/ottofm2/22_21/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Amva HD" tvg-logo="" group-title="(no group)",Muzzik Amva HD (HTTP 500 Internal Server Error)
@@ -964,164 +984,140 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MIXM TV" tvg-logo="" group-title="(no group)",MIXM TV (HTTP 400 Bad Request)
 https://live.prd.dlive.tv/hls/live/mixm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT" tvg-logo="" group-title="(no group)",CMT (HTTP Connection Reset)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT" tvg-logo="" group-title="(no group)",CMT (HTTP 408 Request Timeout)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deep House District" tvg-logo="" group-title="(no group)",Deep House District (HTTP 404 Not Found)
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Шансон" tvg-logo="" group-title="(no group)",Радио Шансон (HTTP 408 Request Timeout)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Жара Kids TV HD" tvg-logo="" group-title="(no group)",Жара Kids TV HD (HTTP 408 Request Timeout)
-http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motor Racing" tvg-logo="" group-title="(no group)",Motor Racing (HTTP 408 Request Timeout)
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MySports 1 HD" tvg-logo="" group-title="(no group)",MySports 1 HD (HTTP 408 Request Timeout)
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Sport HD" tvg-logo="" group-title="(no group)",Viasat Sport HD (HTTP 408 Request Timeout)
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Players TV" tvg-logo="" group-title="(no group)",Players TV (HTTP 408 Request Timeout)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Players TV" tvg-logo="" group-title="(no group)",Players TV (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/1920x1080_5055600/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Motor" tvg-logo="" group-title="(no group)",Canal Motor (HTTP 408 Request Timeout)
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edge Sport" tvg-logo="" group-title="(no group)",Edge Sport (HTTP 408 Request Timeout)
-https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="(no group)",Tennis Channel (HTTP 408 Request Timeout)
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV RI Sport" tvg-logo="" group-title="(no group)",TV RI Sport (HTTP 408 Request Timeout)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MySports 1 HD" tvg-logo="" group-title="(no group)",MySports 1 HD (HTTP 403 Forbidden)
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV RI Sport" tvg-logo="" group-title="(no group)",TV RI Sport (HTTP 404 Not Found)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU.TV" tvg-logo="" group-title="(no group)",RU.TV (FFMPEG Undefined Error)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MMA-TV.COM" tvg-logo="" group-title="(no group)",MMA-TV.COM (HTTP 400 Bad Request)
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="(no group)",Россия 24 (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ" tvg-logo="" group-title="(no group)",РЕН ТВ (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="(no group)",Звезда (HTTP 408 Request Timeout)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КРЫМ 24" tvg-logo="" group-title="(no group)",КРЫМ 24 (HTTP 408 Request Timeout)
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТБН" tvg-logo="" group-title="(no group)",ТБН (FFMPEG Undefined Error)
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смайлик ТВ" tvg-logo="" group-title="(no group)",Смайлик ТВ (FFMPEG Undefined Error)
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ" tvg-logo="" group-title="(no group)",НТВ (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="(no group)",Россия 24 (FFMPEG Undefined Error)
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="(no group)",Viasat History (FFMPEG Undefined Error)
 http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живая природа HD" tvg-logo="" group-title="(no group)",Живая природа HD (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000" tvg-logo="" group-title="(no group)",TV1000 (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema" tvg-logo="" group-title="(no group)",Cinema (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва доверие" tvg-logo="" group-title="(no group)",Москва доверие (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="360° HD" tvg-logo="" group-title="(no group)",360° HD (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто 24" tvg-logo="" group-title="(no group)",Авто 24 (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 канал" tvg-logo="" group-title="(no group)",5 канал (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="(no group)",Еврокино (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион+" tvg-logo="" group-title="(no group)",Иллюзион+ (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema" tvg-logo="" group-title="(no group)",Cinema (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто 24" tvg-logo="" group-title="(no group)",Авто 24 (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="360° HD" tvg-logo="" group-title="(no group)",360° HD (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000" tvg-logo="" group-title="(no group)",TV1000 (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва доверие" tvg-logo="" group-title="(no group)",Москва доверие (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galaxy" tvg-logo="" group-title="(no group)",Galaxy (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="" group-title="(no group)",Кинопоказ (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Драйв" tvg-logo="" group-title="(no group)",Драйв (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="(no group)",Дом кино (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион+" tvg-logo="" group-title="(no group)",Иллюзион+ (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="(no group)",Еврокино (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci" tvg-logo="" group-title="(no group)",Da Vinci (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашние животные" tvg-logo="" group-title="(no group)",Домашние животные (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка первого" tvg-logo="" group-title="(no group)",Музыка первого (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="О!" tvg-logo="" group-title="(no group)",О! (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O2TV" tvg-logo="" group-title="(no group)",O2TV (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Драйв" tvg-logo="" group-title="(no group)",Драйв (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="(no group)",Мосфильм. Золотая коллекция (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="(no group)",Дом кино (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали!" tvg-logo="" group-title="(no group)",Поехали! (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Психология 21" tvg-logo="" group-title="(no group)",Психология 21 (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="(no group)",Ретро (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="(no group)",ОТР (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="(no group)",СТС (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Театр" tvg-logo="" group-title="(no group)",Театр (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="(no group)",СТС Love (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="(no group)",Телекафе (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="(no group)",Мульт (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="(no group)",СТС (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="(no group)",ОТР (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон ТВ" tvg-logo="" group-title="(no group)",Шансон ТВ (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Театр" tvg-logo="" group-title="(no group)",Театр (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="(no group)",Мульт (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="(no group)",Телекафе (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="(no group)",Ретро (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали!" tvg-logo="" group-title="(no group)",Поехали! (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="(no group)",Карусель (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ani" tvg-logo="" group-title="(no group)",Ani (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="(no group)",Бобер (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Психология 21" tvg-logo="" group-title="(no group)",Психология 21 (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="(no group)",Мама (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="(no group)",Уникум (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="(no group)",Disney (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт HD" tvg-logo="" group-title="(no group)",Мульт HD (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тномер" tvg-logo="" group-title="(no group)",Тномер (HTTP 408 Request Timeout)
 http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="(no group)",Бобер (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт HD" tvg-logo="" group-title="(no group)",Мульт HD (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="(no group)",Уникум (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 Домашний HD" tvg-logo="" group-title="(no group)",1 Домашний HD (HTTP 404 Not Found)
 https://livetv.mylifeisgood.ml/channels/domashnii
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Точка отрыва" tvg-logo="" group-title="(no group)",Точка отрыва (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="(no group)",TV1000 Action (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телеканал Футбол" tvg-logo="" group-title="(no group)",Телеканал Футбол (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101 Tele Antequera (1080p)" tvg-logo="" group-title="(no group)",101 Tele Antequera (1080p) (HTTP 404 Not Found)
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВЦ" tvg-logo="" group-title="(no group)",ТВЦ (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="(no group)",Звезда (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="(no group)",TV XXI (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Точка отрыва" tvg-logo="" group-title="(no group)",Точка отрыва (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="(no group)",Время (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="(no group)",TV1000 Action (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="(no group)",Усадьба (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="(no group)",Звезда (HTTP 403 Forbidden)
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Загородная жизнь" tvg-logo="" group-title="(no group)",Загородная жизнь (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зоопарк" tvg-logo="" group-title="(no group)",Зоопарк (HTTP 403 Forbidden)
 http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="(no group)",Ю (HTTP 403 Forbidden)
-http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="(no group)",TV XXI (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Sport" tvg-logo="" group-title="(no group)",Viasat Sport (FFMPEG Undefined Error)
-http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101 Tele Antequera (1080p)" tvg-logo="" group-title="(no group)",101 Tele Antequera (1080p) (HTTP 404 Not Found)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television" tvg-logo="" group-title="(no group)",1HD Music Television (HTTP 404 Not Found)
 https://livetv.mylifeisgood.ml/channels/1hdmusic
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television" tvg-logo="" group-title="(no group)",1HD Music Television (HTTP 403 Forbidden)
-https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Hour Free Movies (720p)" tvg-logo="" group-title="(no group)",24 Hour Free Movies (720p) (HTTP 404 Not Found)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television" tvg-logo="" group-title="(no group)",1HD Music Television (HTTP 403 Forbidden)
+https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD" tvg-logo="" group-title="(no group)",1HD (FFMPEG Undefined Error)
 http://146.158.0.56/1HD/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1mus" tvg-logo="" group-title="(no group)",1mus (FFMPEG Undefined Error)
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 канал" tvg-logo="" group-title="(no group)",12 канал (FFMPEG Undefined Error)
 http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Horas (1080p)" tvg-logo="" group-title="(no group)",24 Horas (1080p) (FFMPEG Undefined Error)
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2 Radio" tvg-logo="" group-title="(no group)",2 Radio (FFMPEG Undefined Error)
 https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 канал" tvg-logo="" group-title="(no group)",31 канал (HTTP 403 Forbidden)
-https://sc.id-tv.kz:443/KTK.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 канал" tvg-logo="" group-title="(no group)",31 канал (HTTP 403 Forbidden)
 https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 канал" tvg-logo="" group-title="(no group)",31 канал (HTTP 403 Forbidden)
+https://sc.id-tv.kz:443/KTK.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 канал" tvg-logo="" group-title="(no group)",31 канал (HTTP 403 Forbidden)
 https://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Europa Plus" tvg-logo="" group-title="(no group)",Europa Plus (HTTP 408 Request Timeout)
@@ -1130,72 +1126,74 @@ https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="(no group)",Eurosport 2 HD (HTTP 404 Not Found)
 https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="(no group)",Eurosport 1 HD (HTTP 403 Forbidden)
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exprezión TV (EXTV | Los Álamos) (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Exprezión TV (EXTV | Los Álamos) (720p) [Not 24/7] (HTTP 404 Not Found)
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="(no group)",Eurosport 2 (HTTP 403 Forbidden)
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="(no group)",Eurosport 1 HD (HTTP 403 Forbidden)
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FailArmy" tvg-logo="" group-title="(no group)",FailArmy (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme sports" tvg-logo="" group-title="(no group)",Extreme sports (HTTP 403 Forbidden)
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FailArmy" tvg-logo="" group-title="(no group)",FailArmy (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports" tvg-logo="" group-title="(no group)",Extreme Sports (HTTP 403 Forbidden)
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="(no group)",EUROSPORT 1 HD (HTTP 408 Request Timeout)
 http://tv.streams.baikal-telecom.net/Eurosport1/mpegts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eurosport 2 HD" tvg-logo="" group-title="(no group)",eurosport 2 HD (HTTP 408 Request Timeout)
 http://tv.streams.baikal-telecom.net/Eurosport2/mpegts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faros TV2 (480p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Faros TV2 (480p) [Geo-blocked] (HTTP 403 Forbidden)
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faros TV (540p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Faros TV (540p) [Geo-blocked] (HTTP 403 Forbidden)
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FARS (240p)" tvg-logo="" group-title="(no group)",FARS (240p) (HTTP 408 Request Timeout)
 http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (576p) [Not 24/7]" tvg-logo="" group-title="(no group)",Fashion TV (576p) [Not 24/7] (HTTP 408 Request Timeout)
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FailArmy International (720p)" tvg-logo="" group-title="(no group)",FailArmy International (720p) (FFMPEG Undefined Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fido TV (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Fido TV (720p) [Not 24/7] (HTTP 404 Not Found)
 http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Hub (720p)" tvg-logo="" group-title="(no group)",Film Hub (720p) (FFMPEG Undefined Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Family (720p)" tvg-logo="" group-title="(no group)",FilmRise Family (720p) (HTTP 4XX Client Error)
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Classic TV (720p)" tvg-logo="" group-title="(no group)",FilmRise Classic TV (720p) (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Crime" tvg-logo="" group-title="(no group)",Filmrise Crime (HTTP 4XX Client Error)
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Family" tvg-logo="" group-title="(no group)",Filmrise Family (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Hell's Kitchen (720p)" tvg-logo="" group-title="(no group)",FilmRise Hell's Kitchen (720p) (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Free Movies (720p)" tvg-logo="" group-title="(no group)",FilmRise Free Movies (720p) (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Classics" tvg-logo="" group-title="(no group)",Filmrise Classics (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Action (720p)" tvg-logo="" group-title="(no group)",FilmRise Action (720p) (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Hell's Kitchen (720p)" tvg-logo="" group-title="(no group)",FilmRise Hell's Kitchen (720p) (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Crime" tvg-logo="" group-title="(no group)",Filmrise Crime (HTTP 4XX Client Error)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Family" tvg-logo="" group-title="(no group)",Filmrise Family (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Family (720p)" tvg-logo="" group-title="(no group)",FilmRise Family (720p) (HTTP 4XX Client Error)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Crime" tvg-logo="" group-title="(no group)",Filmrise Crime (HTTP 4XX Client Error)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Free Movies (720p)" tvg-logo="" group-title="(no group)",FilmRise Free Movies (720p) (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Free Movies (720p)" tvg-logo="" group-title="(no group)",FilmRise Free Movies (720p) (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Classic TV (720p)" tvg-logo="" group-title="(no group)",FilmRise Classic TV (720p) (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Forensic Files (360p)" tvg-logo="" group-title="(no group)",FilmRise Forensic Files (360p) (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Classic TV (720p)" tvg-logo="" group-title="(no group)",FilmRise Classic TV (720p) (FFMPEG Streams Not Found)
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Classic TV on Redbox (720p)" tvg-logo="" group-title="(no group)",FilmRise Classic TV on Redbox (720p) (FFMPEG Undefined Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Free Movies (Redbox) (720p)" tvg-logo="" group-title="(no group)",FilmRise Free Movies (Redbox) (720p) (FFMPEG Undefined Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Mysteries (XUMO) (720p)" tvg-logo="" group-title="(no group)",FilmRise Mysteries (XUMO) (720p) (HTTP 4XX Client Error)
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Mysteries (XUMO) (432p)" tvg-logo="" group-title="(no group)",FilmRise Mysteries (XUMO) (432p) (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise True Crime (720p)" tvg-logo="" group-title="(no group)",FilmRise True Crime (720p) (HTTP 4XX Client Error)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Western (720p)" tvg-logo="" group-title="(no group)",FilmRise Western (720p) (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise True Crime (720p)" tvg-logo="" group-title="(no group)",FilmRise True Crime (720p) (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Mysteries (XUMO) (432p)" tvg-logo="" group-title="(no group)",FilmRise Mysteries (XUMO) (432p) (HTTP 4XX Client Error)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmrise Movies" tvg-logo="" group-title="(no group)",Filmrise Movies (HTTP 4XX Client Error)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORBIT TV (480p) [Geo-blocked]" tvg-logo="" group-title="(no group)",ORBIT TV (480p) [Geo-blocked] (HTTP 403 Forbidden)
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oriental TV 21 (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="(no group)",Oriental TV 21 (Pucallpa) (480p) [Not 24/7] (HTTP 404 Not Found)
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORBIT TV (480p) [Geo-blocked]" tvg-logo="" group-title="(no group)",ORBIT TV (480p) [Geo-blocked] (HTTP 403 Forbidden)
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One TV (720p)" tvg-logo="" group-title="(no group)",One TV (720p) (FFMPEG Undefined Error)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pac 12 Insider (1080p) [Not 24/7]" tvg-logo="" group-title="(no group)",Pac 12 Insider (1080p) [Not 24/7] (HTTP 404 Not Found)
@@ -1204,10 +1202,10 @@ https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/play
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor America (720p)" tvg-logo="" group-title="(no group)",Outdoor America (720p) (FFMPEG Streams Not Found)
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OVAA TV" tvg-logo="" group-title="(no group)",OVAA TV (HTTP 408 Request Timeout)
+http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outside TV Plus (1080p)" tvg-logo="" group-title="(no group)",Outside TV Plus (1080p) (FFMPEG Undefined Error)
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OVAA TV" tvg-logo="" group-title="(no group)",OVAA TV (FFMPEG Undefined Error)
-http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Palestine Satellite Channel (1080p)" tvg-logo="" group-title="(no group)",Palestine Satellite Channel (1080p) (FFMPEG Undefined Error)
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Comedy Russia" tvg-logo="" group-title="(no group)",Paramount Comedy Russia (HTTP 404 Not Found)
@@ -1218,14 +1216,6 @@ https://cloudvideo.servers10.com:8081/8106/index.m3u8
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS 39 Allentown PA (WLVT) (720p)" tvg-logo="" group-title="(no group)",PBS 39 Allentown PA (WLVT) (720p) (HTTP 408 Request Timeout)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party 24/7" tvg-logo="" group-title="(no group)",Party 24/7 (FFMPEG Undefined Error)
-https://hls-01-radiorecord.hostingradio.ru/record-party/64/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Comedy (720p)" tvg-logo="" group-title="(no group)",Persiana Comedy (720p) (HTTP 404 Not Found)
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Classic (720p)" tvg-logo="" group-title="(no group)",Persiana Classic (720p) (HTTP 404 Not Found)
-http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Iranian (720p)" tvg-logo="" group-title="(no group)",Persiana Iranian (720p) (HTTP 404 Not Found)
-http://51.210.199.22/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Kids Florida (1080p)" tvg-logo="" group-title="(no group)",PBS Kids Florida (1080p) (HTTP 403 Forbidden)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People TV (1080p)" tvg-logo="" group-title="(no group)",People TV (1080p) (HTTP 503 Service Unavailable)
@@ -1258,12 +1248,10 @@ https://sc.id-tv.kz:443/TALIMTV_34_35.m3u8
 https://sc.id-tv.kz/TALIMTV_34_35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC" tvg-logo="" group-title="(no group)",BBC (FFMPEG Undefined Error)
 https://plbl.m9.lfstrm.tv/detskij_mir/normal/1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy HD DE" tvg-logo="" group-title="(no group)",Syfy HD DE (FFMPEG Undefined Error)
-http://43zvd7dq.megatv.fun/iptv/6TTRC9TMZAUYGA/6092/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCT" tvg-logo="" group-title="(no group)",TCT (FFMPEG Streams Not Found)
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCT Kids" tvg-logo="" group-title="(no group)",TCT Kids (FFMPEG Streams Not Found)
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCT" tvg-logo="" group-title="(no group)",TCT (FFMPEG Streams Not Found)
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teins TV (1080p)" tvg-logo="" group-title="(no group)",Teins TV (1080p) (HTTP 404 Not Found)
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teins TV (1080p)" tvg-logo="" group-title="(no group)",Teins TV (1080p) (HTTP 404 Not Found)
@@ -1284,36 +1272,44 @@ http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefriuli (720p)" tvg-logo="" group-title="(no group)",Telefriuli (720p) (HTTP 404 Not Found)
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemilenio (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Telemilenio (720p) [Not 24/7] (HTTP 500 Internal Server Error)
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Uno (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Tele Uno (720p) [Not 24/7] (FFMPEG Undefined Error)
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleGilena (360p) [Not 24/7]" tvg-logo="" group-title="(no group)",TeleGilena (360p) [Not 24/7] (HTTP 404 Not Found)
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemilenio (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Telemilenio (720p) [Not 24/7] (HTTP 500 Internal Server Error)
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telenord 8 (1080p) [Not 24/7]" tvg-logo="" group-title="(no group)",Telenord 8 (1080p) [Not 24/7] (HTTP 403 Forbidden)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telenord Canal 10 (1080p) [Not 24/7]" tvg-logo="" group-title="(no group)",Telenord Canal 10 (1080p) [Not 24/7] (HTTP 403 Forbidden)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telenord 12 (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Telenord 12 (720p) [Not 24/7] (HTTP 403 Forbidden)
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telegranda (720p)" tvg-logo="" group-title="(no group)",Telegranda (720p) (HTTP 408 Request Timeout)
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleimpacto (720p)" tvg-logo="" group-title="(no group)",Teleimpacto (720p) (HTTP 408 Request Timeout)
 http://190.122.96.188:8888/http/013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="" group-title="(no group)",Telemundo (HTTP 408 Request Timeout)
-http://umemsjwk.ottclub.xyz/iptv/QADW8SXFVALFQA/1080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax (720p)" tvg-logo="" group-title="(no group)",Telemax (720p) (FFMPEG Undefined Error)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemolise (1080p)" tvg-logo="" group-title="(no group)",Telemolise (1080p) (FFMPEG Undefined Error)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax" tvg-logo="" group-title="(no group)",Telemax (FFMPEG Undefined Error)
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleSUR Costa Rica (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",TeleSUR Costa Rica (720p) [Not 24/7] (HTTP 404 Not Found)
-http://k3.usastreams.com/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax (720p)" tvg-logo="" group-title="(no group)",Telemax (720p) (FFMPEG Undefined Error)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN Canal 10 (720p)" tvg-logo="" group-title="(no group)",TEN Canal 10 (720p) (HTTP 500 Internal Server Error)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleSUR Costa Rica (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",TeleSUR Costa Rica (720p) [Not 24/7] (HTTP 404 Not Found)
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teletubbies (720p)" tvg-logo="" group-title="(no group)",Teletubbies (720p) (HTTP 4XX Client Error)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleVideo Agrigento" tvg-logo="" group-title="(no group)",TeleVideo Agrigento (HTTP 404 Not Found)
 https://59d7d6f47d7fc.streamlock.net/vr/vr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="" group-title="(no group)",TEN HD (HTTP 504 Gateway Timeout)
 http://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo/_definst_/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT EU (576p)" tvg-logo="" group-title="(no group)",TGRT EU (576p) (HTTP 500 Internal Server Error)
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten TV (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Ten TV (720p) [Not 24/7] (FFMPEG Undefined Error)
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT Belgesel TV (576p)" tvg-logo="" group-title="(no group)",TGRT Belgesel TV (576p) (HTTP 500 Internal Server Error)
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT EU (576p)" tvg-logo="" group-title="(no group)",TGRT EU (576p) (HTTP 500 Internal Server Error)
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Asylum (1080p)" tvg-logo="" group-title="(no group)",The Asylum (1080p) (HTTP 404 Not Found)
 http://asylum-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Asylum TV" tvg-logo="" group-title="(no group)",The Asylum TV (HTTP 4XX Client Error)
@@ -1322,10 +1318,10 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Channel TV (1080p) [Not 24/7]" tvg-logo="" group-title="(no group)",The Channel TV (1080p) [Not 24/7] (HTTP 408 Request Timeout)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT Haber (360p) [Not 24/7]" tvg-logo="" group-title="(no group)",TGRT Haber (360p) [Not 24/7] (FFMPEG Undefined Error)
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT Belgesel TV (576p) [Not 24/7]" tvg-logo="" group-title="(no group)",TGRT Belgesel TV (576p) [Not 24/7] (FFMPEG Undefined Error)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TGRT Haber (360p) [Not 24/7]" tvg-logo="" group-title="(no group)",TGRT Haber (360p) [Not 24/7] (FFMPEG Undefined Error)
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Boat Show (720p)" tvg-logo="" group-title="(no group)",The Boat Show (720p) (FFMPEG Undefined Error)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Love Destination (720p)" tvg-logo="" group-title="(no group)",The Love Destination (720p) (HTTP 400 Bad Request)
@@ -1342,8 +1338,6 @@ https://livetv.mylifeisgood.ml/channels/kinotv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Tim Conway Show (720p)" tvg-logo="" group-title="(no group)",The Tim Conway Show (720p) (FFMPEG Streams Not Found)
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thema Televisión (La Serena) (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Thema Televisión (La Serena) (720p) [Not 24/7] (FFMPEG Undefined Error)
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозал! КИНОКЛУБ" tvg-logo="" group-title="(no group)",Кинозал! КИНОКЛУБ (HTTP 503 Service Unavailable)
 https://v2.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал(+2)" tvg-logo="" group-title="(no group)",Первый канал(+2) (HTTP 408 Request Timeout)
