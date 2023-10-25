@@ -8,8 +8,6 @@ http://89.254.128.5:22280/duo7_hd/index.m3u8
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 24" tvg-logo="" group-title="(no group)",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luxury HD" tvg-logo="" group-title="(no group)",Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Щелковское ТВ" tvg-logo="" group-title="(no group)",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Селенга ТВ" tvg-logo="" group-title="(no group)",Селенга ТВ
@@ -20,6 +18,8 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Premium HD" tvg-logo="" group-title="(no group)",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР 24 HD" tvg-logo="" group-title="(no group)",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТМ" tvg-logo="" group-title="(no group)",НТМ
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МузСоюз" tvg-logo="" group-title="(no group)",МузСоюз
@@ -32,8 +32,6 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
 https://saratov24.tv/online/playlist.php
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music Television (404p) [Not 24/7]" tvg-logo="" group-title="(no group)",1HD Music Television (404p) [Not 24/7]
-https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1mus ru" tvg-logo="" group-title="(no group)",1mus ru
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN Baltia (1080p)" tvg-logo="" group-title="(no group)",TBN Baltia (1080p)
