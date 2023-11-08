@@ -6,8 +6,8 @@ http://89.254.128.5:22280/duo7_hd/index.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 24" tvg-logo="" group-title="(no group)",Беларусь 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КТК" tvg-logo="" group-title="(no group)",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Щелковское ТВ" tvg-logo="" group-title="(no group)",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Селенга ТВ" tvg-logo="" group-title="(no group)",Селенга ТВ
@@ -28,11 +28,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUSTV Страшное HD" tvg-logo="" group-title="(no group)",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый музыкальный" tvg-logo="" group-title="(no group)",Первый музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
 https://saratov24.tv/online/playlist.php
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1mus ru" tvg-logo="" group-title="(no group)",1mus ru
-http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN Baltia (1080p)" tvg-logo="" group-title="(no group)",TBN Baltia (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
