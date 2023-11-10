@@ -16,8 +16,6 @@ http://90.188.37.86/live/playlist.m3u8
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ" tvg-logo="" group-title="(no group)",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Premium HD" tvg-logo="" group-title="(no group)",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР 24 HD" tvg-logo="" group-title="(no group)",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТМ" tvg-logo="" group-title="(no group)",НТМ
