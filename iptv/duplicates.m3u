@@ -18,13 +18,15 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТМ" tvg-logo="" group-title="(no group)",НТМ
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МузСоюз" tvg-logo="" group-title="(no group)",МузСоюз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUS TV HD" tvg-logo="" group-title="(no group)",BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUSTV Страшное HD" tvg-logo="" group-title="(no group)",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волга" tvg-logo="" group-title="(no group)",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
 https://saratov24.tv/online/playlist.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAN hd" tvg-logo="" group-title="(no group)",FAN hd
+http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN Baltia (1080p)" tvg-logo="" group-title="(no group)",TBN Baltia (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
