@@ -12,6 +12,8 @@ http://stream0.tv41.ru/live.m3u8
 http://90.188.37.86/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НВК Саха HD" tvg-logo="" group-title="(no group)",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эхо ТВ" tvg-logo="" group-title="(no group)",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ" tvg-logo="" group-title="(no group)",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР 24 HD" tvg-logo="" group-title="(no group)",МИР 24 HD
