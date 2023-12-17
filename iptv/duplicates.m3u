@@ -6,31 +6,3 @@ https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КТК" tvg-logo="" group-title="(no group)",КТК
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Щелковское ТВ" tvg-logo="" group-title="(no group)",Щелковское ТВ
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Селенга ТВ" tvg-logo="" group-title="(no group)",Селенга ТВ
-http://90.188.37.86/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НВК Саха HD" tvg-logo="" group-title="(no group)",НВК Саха HD
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эхо ТВ" tvg-logo="" group-title="(no group)",Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ" tvg-logo="" group-title="(no group)",Ника ТВ
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР 24 HD" tvg-logo="" group-title="(no group)",МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТМ" tvg-logo="" group-title="(no group)",НТМ
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUS TV HD" tvg-logo="" group-title="(no group)",BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BACKUSTV Страшное HD" tvg-logo="" group-title="(no group)",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волга" tvg-logo="" group-title="(no group)",Волга
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Саратов 24" tvg-logo="" group-title="(no group)",Саратов 24
-https://saratov24.tv/online/playlist.php
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAN hd" tvg-logo="" group-title="(no group)",FAN hd
-http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN Baltia (1080p)" tvg-logo="" group-title="(no group)",TBN Baltia (1080p)
-http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
