@@ -28,7 +28,7 @@ jobs:
           sudo apt-get install -y ffmpeg
 
     - name: Install dependencies
-      run: npm install -g iptv-checker
+      run: npm install iptv-checker
 
     - name: Download and merge M3U files
       run: |
@@ -45,7 +45,7 @@ jobs:
     - name: Run IPTV Checker
       run: |
         # Run IPTV Checker to parse working links
-        iptv-checker merged.m3u -o iptv -t 5000 -p 20 -a "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+        iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
 
     - name: Commit and push the updated M3U file
       run: |
