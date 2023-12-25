@@ -42,8 +42,7 @@ jobs:
     - name: Install and Run IPTV Checker
       run: |
         # Install IPTV Checker
-        npm install iptv-checker
-        npm audit fix
+        npm install iptv-checker --ignore-scripts
         # Run IPTV Checker to parse working links
         npx iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
 
