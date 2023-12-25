@@ -43,6 +43,8 @@ jobs:
       run: |
         # Install IPTV Checker
         npm install -g iptv-checker
+        npm fund
+        npm audit fix --force
         # Run IPTV Checker to parse working links
         iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
 
