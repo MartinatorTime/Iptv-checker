@@ -33,7 +33,7 @@ jobs:
       - name: Run IPTV CHECK
         run: |
             chmod +x iptv-check
-            if ./iptv-check check.m3u; then
+            if ./iptv-check-slow check.m3u; then
             echo "IPTV check was successful."
             else
             echo "IPTV check was successful with exit code $?."
