@@ -27,9 +27,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-    - name: Install dependencies
-      run: npm install iptv-checker
-
     - name: Download and merge M3U files
       run: |
         # Create an empty merged.m3u file
@@ -42,8 +39,10 @@ jobs:
 
         cat LV.m3u rus.m3u russ.m3u >> merged.m3u
 
-    - name: Run IPTV Checker
+    - name: Install and Run IPTV Checker
       run: |
+        # Install IPTV Checker
+        npm install -g iptv-checker
         # Run IPTV Checker to parse working links
         iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
 
