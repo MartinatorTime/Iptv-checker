@@ -2,9 +2,9 @@ name: IPTV CHECK Slow
 
 on: 
   workflow_dispatch:
-  #push:
-  #  branches:
-  #    - main  # Change this to match your main branch
+  push:
+    branches:
+      - test  # Change this to match your main branch
 
 jobs:
   iptv-check:
@@ -25,11 +25,9 @@ jobs:
           # Download your M3U files and merge them into one file (e.g., online.m3u)
           curl -o LV.m3u https://iptv-org.github.io/iptv/languages/lav.m3u
           curl -o rus.m3u https://iptv-org.github.io/iptv/languages/rus.m3u
-          curl -o russ.m3u http://m3u4u.com/m3u/jwmzn1k5zztjvje5n721.m3u
           curl -o any.m3u https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
           cat LV.m3u >> check.m3u
           cat rus.m3u >> check.m3u
-          cat russ.m3u >> check.m3u
           cat any.m3u >> check.m3u
 
       - name: Run IPTV CHECK

@@ -1,12 +1,12 @@
 name: IPTV Checker
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Run daily, adjust as needed
-  workflow_dispatch:
-  push:
-    branches:
-      - test
+  #schedule:
+  #  - cron: '0 0 * * *' # Run daily, adjust as needed
+  #workflow_dispatch:
+  #push:
+  #  branches:
+  #    - test
   
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@master
       with:
-        node-version: '20'
+        node-version: '16'
 
     - name: Install FFmpeg
       run: |
@@ -42,10 +42,12 @@ jobs:
     - name: Install and Run IPTV Checker
       run: |
         # Install IPTV Checker
-        npm uninstall -g iptv-checker
+        npm install -g npm@10.2.5
+        npm fund
         npm install -g iptv-checker@latest
+        npm fund
         # Run IPTV Checker to parse working links
-        npx iptv-checker merged.m3u -o iptv -t 5000 -p 200 --verbose
+        npx iptv-checker merged.m3u -o iptv -t 5000 -p 200
 
     - name: Commit and push the updated M3U file
       run: |
