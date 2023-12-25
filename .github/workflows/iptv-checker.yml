@@ -44,7 +44,7 @@ jobs:
         # Install IPTV Checker
         npm install iptv-checker
         # Run IPTV Checker to parse working links
-        iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
+        npx iptv-checker merged.m3u -o iptv -t 5000 -p 200 -k
 
     - name: Commit and push the updated M3U file
       run: |
