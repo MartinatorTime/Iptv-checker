@@ -1,12 +1,12 @@
 name: IPTV Checker
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Run daily, adjust as needed
+  #schedule:
+  #  - cron: '0 0 * * *' # Run daily, adjust as needed
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  #push:
+  #  branches:
+  #    - main
   
 
 jobs:
